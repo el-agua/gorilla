@@ -1,4 +1,4 @@
-module github.com/keisku/gorilla
+module github.com/el-agua/gorilla
 
 go 1.18
 
